@@ -1,3 +1,3 @@
-private boolean isPrime(int number){
+private boolean isPrime(final int number){
 	return true;
 }
